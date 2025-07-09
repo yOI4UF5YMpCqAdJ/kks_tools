@@ -1,0 +1,14 @@
+# 视频转换工具依赖项
+# 注意：FFmpeg需要单独安装，不是Python包
+
+# 用于处理路径和文件系统操作
+pathlib2==2.3.7.post1; python_version<"3.4"
+
+# 日志记录（Python内置，但列出来作为参考）
+# logging - 内置模块
+
+# JSON处理（Python内置）
+# json - 内置模块
+
+# 子进程处理（Python内置）
+# subprocess - 内置模块
